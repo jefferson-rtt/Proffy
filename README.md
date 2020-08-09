@@ -21,10 +21,10 @@ Nunjucks
 <h3>🤔 Como executar o projeto?</h3>
 
 
-# Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+<h6> Clonar o repositório</h6>
+git clone https://github.com/jefferson-rtt/Proffy
 
-# Entrar no diretório
+<p> Entrar no diretório</P>
 cd proffy-discovery
 
 # Baixar as dependências
