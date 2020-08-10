@@ -10,28 +10,26 @@ Este foi um projeto desenvolvido durante a Next Level Week, realizada pela @Rock
 
 
 <h3>🚀 Tecnologias utilizadas</h3>
-JavaScript
-HTML
-CSS
-Node.js
-Express
-Nunjucks
+
+JavaScript - HTML - CSS - Node.js - Express - Nunjucks
 
 
 <h3>🤔 Como executar o projeto?</h3>
 
 
-<h6> Clonar o repositório</h6>
+<h6>Clonar o repositório</h6>
 git clone https://github.com/jefferson-rtt/Proffy
 
-<p> Entrar no diretório</P>
+<h6> Entrar no diretório</h6>
 cd proffy-discovery
 
-# Baixar as dependências
+<h6>Baixar as dependências</h6>
 npm i
 
-# Executar o servidor
+<h6>Executar o servidor</h6>
 npm run dev
 
 
-Após o passo a passo anterior, abra o seu navegador e acesse "localhost:5500"
+Após o passo a passo anterior, abra o seu navegador e acesse "localhost:5500
+
+
